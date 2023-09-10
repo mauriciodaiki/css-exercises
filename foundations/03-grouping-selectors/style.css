@@ -3,7 +3,7 @@
     color: rgb(255, 255, 255);
 }
 .right {
-    background-color: #ffff00;
+    background-color: hsl(60, 100%, 50%);
 }
 .left,
 .right {
